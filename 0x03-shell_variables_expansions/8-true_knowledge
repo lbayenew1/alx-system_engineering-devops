@@ -1,3 +1,2 @@
 #!/bin/bash
-export TRUEKNOWLEDGE
 echo "$TRUEKNOWLEDG+128" | bc -l
